@@ -1,1 +1,23 @@
 aaa
+Untracked files:
+        LICENSE.txt
+        ReleaseNotes.html
+        bin/
+        cmd/
+        dev/
+        etc/
+        git-bash.exe
+        git-cmd.exe
+        mingw64/
+        unins000.dat
+        unins000.exe
+        unins000.msg
+        usr/
+
+nothing added to commit but untracked files present
+
+Administrator@DESKTOP-3SAN3EC MINGW64 / (master)
+$ git diff HEAD -- git01.txt
+
+Administrator@DESKTOP-3SAN3EC MINGW64 / (master)
+$
